@@ -41,7 +41,7 @@ var updateClock = function()
 		messageText = "NO! WHY IZ TIME TO GETTUP?";
 	} else if (time < noon) {
 		image = "https://media.tenor.com/images/449bfd92bcf5b1206ebed6e8374dca5f/tenor.gif";
-		messageText = "I IZ CAT. ALL MORNING IS MORNING SNOOZE TIME.";
+		messageText = "I IZ CAT. MORNING IS FOR SNOOZES.";
 	} else if (time < evening) {
 	   image = "https://icatcare.org/sites/default/files/kcfinder/images/images/cat-garden.jpg";
 		messageText = "IZ EXPLORING TIME!";
