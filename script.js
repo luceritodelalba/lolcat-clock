@@ -40,7 +40,7 @@ var updateClock = function()
 	image="https://images.pexels.com/photos/416160/pexels-photo-416160.jpeg?w=940&h=650&auto=compress&cs=tinysrgb";
 		messageText = "NO! WHY IZ TIME TO GETTUP?";
 	} else if (time < noon) {
-		image = "http://www.goodnet.org/photos/620x0/22771.jpg";
+		image = "https://media.giphy.com/media/LZaA5gGjbUJOw/giphy.gif";
 		messageText = "I IZ CAT. ALL MORNING IS MORNING SNOOZE TIME.";
 	} else if (time < evening) {
 	   image = "https://icatcare.org/sites/default/files/kcfinder/images/images/cat-garden.jpg";
